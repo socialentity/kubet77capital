@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Kubet77 | kubet77.capital | Uy tín làm nên tên tuổi
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhà cái Kubet77 <https://kubet77.capital/>`_ là nơi uy tín đã được khẳng định. Bạn có thể thỏa đam mê thử sức với những bộ môn thể thao đầy hấp dẫn như Casino, bắn cá..với vô số trò chơi đỉnh cao
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 1436C Đ. Phạm Thế Hiển, Phường 5, Quận 8, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0931284458
 
-Contents
---------
+Email: info@kubet77.capital
 
-.. toctree::
+Website: https://kubet77.capital/
 
-   usage
-   api
+#Kubet77 #trangchuKubet77 #nhacaiKubet77 #linkKubet77 #dangkyKubet77
